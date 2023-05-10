@@ -10,4 +10,4 @@
   ```
 
 * ### Notification
- I 'm busy with my homework so I can't maintain this repository. Anyone interested in contributing to the repository is welcome.
+ The hyperparameters and performance are now align with the official tensorflow implementation.
